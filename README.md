@@ -10,7 +10,7 @@
 ### Description
 
 * Responsive design
-* Flex box 
+* [Flex box](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
 * Relative units
 * Adapting the text and images
 * Modifying the layout at large screens
